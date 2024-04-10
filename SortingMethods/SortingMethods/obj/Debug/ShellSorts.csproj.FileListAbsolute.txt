@@ -1,0 +1,7 @@
+C:\Users\vchup\source\repos\SortingMethods\SortingMethods\obj\Debug\ShellSorts.csproj.AssemblyReference.cache
+C:\Users\vchup\source\repos\SortingMethods\SortingMethods\obj\Debug\ShellSorts.csproj.CoreCompileInputs.cache
+C:\Users\vchup\source\repos\SortingMethods\SortingMethods\bin\Debug\SortingMethods.exe.config
+C:\Users\vchup\source\repos\SortingMethods\SortingMethods\bin\Debug\SortingMethods.exe
+C:\Users\vchup\source\repos\SortingMethods\SortingMethods\bin\Debug\SortingMethods.pdb
+C:\Users\vchup\source\repos\SortingMethods\SortingMethods\obj\Debug\SortingMethods.exe
+C:\Users\vchup\source\repos\SortingMethods\SortingMethods\obj\Debug\SortingMethods.pdb
